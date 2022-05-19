@@ -1,0 +1,168 @@
+body{
+  background-color: burlywood;
+  
+}
+
+table{
+  width: 500px;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.colores{
+  height: 50px;
+  background-color: green;
+}
+
+.black{
+    height: 50px;
+    background-color: black;
+}
+
+.teal{
+  background-color: teal;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.navy{
+  background-color: navy;
+}
+.lime{
+  background-color: lime;
+}
+
+.white{
+  background-color: white;
+}
+
+.purple{
+  height: 50px;
+  background-color: purple;
+}
+
+.yellow{
+  background-color: yellow;
+}
+.olive{
+  height: 50px;
+  background-color: olive;
+}
+.red{
+  background-color: red;
+}
+.marron{
+  background-color:maroon ;
+}
+.grey{
+  background-color: grey;
+}
+.fuchsia{
+  background-color: fuchsia;
+}
+.green{
+  background-color: green;
+}
+h2, p{
+  display: flex;
+  justify-content: center;
+}
+
+.colorinchis{
+  width: 520px;
+  height: 50px;
+  display:flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: auto;
+  
+}
+
+.first{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  
+}
+.second{
+  color: teal;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+ 
+
+}
+.third{
+  color: blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+
+}
+.fourth{
+  color: navy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+
+}
+.fifth{
+  color: lime;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+
+.sixth{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.seventh{
+  color: purple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.eight{
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.ninth{
+  color: olive;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.tenth{
+  color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.eleventh{
+  color: maroon;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.twelveth{
+  color: gray;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.thirteenth{
+  color: fuchsia;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.fourteenth{
+  color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.fivetheen{
+  color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+.sixteen{
+  color: silver;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
